@@ -1,15 +1,15 @@
-Python 3.12.3 (tags/v3.12.3:f6650f9, Apr  9 2024, 14:05:25) [MSC v.1938 64 bit (AMD64)] on win32
-Type "help", "copyright", "credits" or "license()" for more information.
->>> var1 = 13
->>> result = var1 * 2
->>>  result
-...  
-SyntaxError: unexpected indent
->>> result
-26
->>> result = var1 * 3 +
-SyntaxError: invalid syntax
->>> res = (1 + 2 +
-...        4 + 5)
->>> res
-12
+# Python 3.12.3 (tags/v3.12.3:f6650f9, Apr  9 2024, 14:05:25) [MSC v.1938 64 bit (AMD64)] on win32
+# Type "help", "copyright", "credits" or "license()" for more information.
+# >>> var1 = 13
+# >>> result = var1 * 2
+# >>>  result
+# ...
+# SyntaxError: unexpected indent
+# >>> result
+# 26
+# >>> result = var1 * 3 +
+# SyntaxError: invalid syntax
+# >>> res = (1 + 2 +
+# ...        4 + 5)
+# >>> res
+# 12
